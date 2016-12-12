@@ -11,4 +11,6 @@
 
 ```
 ![](https://github.com/dalzony/images/blob/master/filename.jpg?raw=true)
+
+<img src="...png" alt="Drawing" style="width: 100px;"/>
 ```
