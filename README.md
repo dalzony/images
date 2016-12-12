@@ -13,4 +13,7 @@
 ![](https://github.com/dalzony/images/blob/master/filename.jpg?raw=true)
 
 <img src="...png" alt="Drawing" style="width: 100px;"/>
+
+<img src="..jpg"
+ alt="Leiningen logo" title="The man himself" align="right" />
 ```
