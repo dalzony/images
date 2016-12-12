@@ -1,2 +1,14 @@
 # images
-dalzony.github.io 에 쓰일 이미지 폴더
+
+- dalzony.github.io 에 쓰일 이미지 폴더
+- etx
+
+# how to
+
+## issues
+
+## upload
+
+```
+![](https://github.com/dalzony/images/blob/master/filename.jpg?raw=true)
+```
